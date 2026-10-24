@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 220" width="900" height="220" role="img" aria-label="GitHub activity, updates after the first workflow run">
+<rect width="900" height="220" rx="18" fill="#1B1230"/>
+<text x="56" y="52" font-family="Georgia, serif" font-size="22" font-style="italic" fill="#B9AEE0">Run log</text>
+<text x="56" y="120" font-family="-apple-system, 'Segoe UI', Arial, sans-serif" font-size="16" fill="#F3EEFF">Open the Actions tab and run "Refresh run log" once. This panel then fills in</text>
+<text x="56" y="146" font-family="-apple-system, 'Segoe UI', Arial, sans-serif" font-size="16" fill="#F3EEFF">with your repositories, stars, followers and languages, and refreshes daily.</text>
+</svg>
